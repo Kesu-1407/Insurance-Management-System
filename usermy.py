@@ -4,7 +4,7 @@ import streamlit as st
 con=mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Jupy1298',
+    password='',
     database='insurance'
 )
 
